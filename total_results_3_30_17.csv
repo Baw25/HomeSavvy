@@ -1,0 +1,331 @@
+address,city_state_zip,bedsize,bathsize,price,co_owners,monthly_cost,savings,gallery_url
+171 Ledyard St,"San Francisco, CA, 94124",2.0,1.0,599000,2,1124,6500,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324079
+135 Farallones St,"San Francisco, CA, 94112",2.0,1.0,648000,2,1216,7031,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324095
+8300 Oceanview Ter #205,"San Francisco, CA, 94132",2.0,2.0,695000,2,1304,7541,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324154
+900 Somerset St,"San Francisco, CA, 94134",2.0,1.0,699000,2,1311,7585,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324100
+601 Van Ness Ave #525,"San Francisco, CA, 94102",2.0,2.0,797000,2,1495,8648,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324066
+2189 Market St #7,"San Francisco, CA, 94114",2.0,1.0,799000,2,1499,8670,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324089
+2 Colby St,"San Francisco, CA, 94134",2.0,1.0,799000,2,1499,8670,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324054
+2317 31st Ave,"San Francisco, CA, 94116",2.0,1.0,873000,2,1638,9473,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324044
+5 Sunview Dr,"San Francisco, CA, 94131",2.0,1.0,895000,2,1679,9711,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324085
+747 Lyon St #2,"San Francisco, CA, 94115",2.0,1.0,935000,2,1754,10145,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=323493
+274 Athens St,"San Francisco, CA, 94112",2.0,2.0,979000,2,1836,10623,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324041
+1117 Alabama St #A,"San Francisco, CA, 94110",2.0,1.0,998000,2,1872,10829,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324139
+259 Clara St #401,"San Francisco, CA, 94107",2.0,2.0,999999,2,1876,10851,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324027
+250 King St #474,"San Francisco, CA, 94107",2.0,1.5,1049000,2,1968,11382,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324034
+132 Collins St,"San Francisco, CA, 94118",2.0,1.0,1095000,2,2054,11882,https://app.realtaasa.com/homes/property/CA/San-Francisco/132-Collins-St-94118-3401/ae35a7f703f1b7f424f3
+68 Harriet St #13,"San Francisco, CA, 94103",2.0,2.5,1099000,2,2062,11925,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324011
+170 King St #711,"San Francisco, CA, 94107",2.0,2.0,1150000,2,2157,12478,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324090
+235 Berry #704,"San Francisco, CA, 94158",2.0,2.0,1195000,2,2242,12967,TBD
+300 Berry St #1210,"San Francisco, CA, 94158",2.0,1.0,1195000,2,2242,12967,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324025
+645 Texas St #315,"San Francisco, CA, 94107",2.0,2.0,1205000,2,2260,13075,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324096
+174 Connecticut St #3,"San Francisco, CA, 94107",2.0,3.0,1249000,2,2343,13553,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324087
+2609-2615 Bryant St,"San Francisco, CA, 94110",2.0,1.0,1275000,2,2392,13835,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324105
+645 Texas #402,"San Francisco, CA, 94107",2.0,2.0,1290000,2,2420,13998,TBD
+666 Cayuga Ave,"San Francisco, CA, 94112",2.0,2.0,1295000,2,2429,14052,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324023
+2040 Sutter St #301,"San Francisco, CA, 94115",2.0,2.0,1348000,2,2529,14627,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324161
+120-124 Varennes St,"San Francisco, CA, 94133",2.0,1.0,1380000,2,2589,14974,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324046
+255 Berry St #516,"San Francisco, CA, 94158",2.0,2.0,1475000,2,2767,16005,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=323672
+1141 Church St,"San Francisco, CA, 94114",2.0,2.0,1649000,2,3093,17893,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324155
+338 Main St #D16G,"San Francisco, CA, 94105",2.0,2.0,1675000,2,3142,18175,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324004
+225 9th St,"San Francisco, CA, 94103",2.0,2.0,1699000,2,3187,18435,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324129
+2724-2728 22nd St,"San Francisco, CA, 94110",2.0,2.0,2295000,2,4305,24903,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324097
+238 Evelyn Way,"San Francisco, CA, 94127",3.0,1.0,799000,3,999,5780,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324112
+790 Naples St,"San Francisco, CA, 94112",3.0,2.0,899000,3,1124,6503,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324123
+2574 44th Ave,"San Francisco, CA, 94116",3.0,1.0,900000,3,1126,6510,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324150
+1675 29th Ave,"San Francisco, CA, 94122",3.0,1.25,995000,3,1244,7198,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324038
+622 38th Ave,"San Francisco, CA, 94121",3.0,2.0,999000,3,1249,7227,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324125
+165 Vasquez Ave,"San Francisco, CA, 94127",3.0,1.25,1050000,3,1313,7596,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324053
+476 Joost Ave,"San Francisco, CA, 94127",3.0,2.0,1075000,3,1344,7776,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324179
+594 Lisbon St,"San Francisco, CA, 94112",3.0,2.5,1088000,3,1361,7870,http://mlax.rapmls.com/Gallery.aspx?mls=SFAR&listingRid=324065
+4036 Moraga St,"San Francisco, CA, 94122",3.0,2.5,1188000,3,1486,8594,
+126 Monterey Blvd,"San Francisco, CA, 94131",3.0,2.0,1198000,3,1498,8666
+1671 Church St,"San Francisco, CA, 94131",3.0,2.5,1225000,3,1532,8861
+2527 33rd Ave,"San Francisco, CA, 94116",3.0,2.0,1279000,3,1599,9252
+2722 Irving St,"San Francisco, CA, 94122",3.0,2.5,1349000,3,1687,9758
+571 20th Ave,"San Francisco, CA, 94121",3.0,2.0,1388000,3,1736,10041
+638 19th St #4,"San Francisco, CA, 94107",3.0,2.0,1395000,3,1745,10091
+229 Stanyan St,"San Francisco, CA, 94118",3.0,2.5,1399000,3,1750,10120
+1714 8th Ave,"San Francisco, CA, 94122",3.0,2.5,1469000,3,1837,10627
+955 Leavenworth,"San Francisco, CA, 94109",3.0,2.0,1549000,3,1937,11205
+20 Wright St,"San Francisco, CA, 94110",3.0,2.0,1795000,3,2245,12985
+187 Brompton Ave,"San Francisco, CA, 94131",3.0,2.25,1795000,3,2245,12985
+2405 Folsom St #4,"San Francisco, CA, 94110",3.0,3.5,1899000,3,2375,13737
+2405 Folsom St #6,"San Francisco, CA, 94110",3.0,3.5,1949000,3,2437,14099
+225 Laguna St,"San Francisco, CA, 94102",3.0,2.5,2395000,3,2995,17325
+425 1st St #2902,"San Francisco, CA, 94105",3.0,3.0,2985000,3,3733,21593
+2230 Bush St,"San Francisco, CA, 94115",3.0,3.0,4995000,3,6247,36133
+190 Mary Teresa St #2,"San Francisco, CA, 94134",4.0,2.0,1099000,4,1031,5963
+541 Orizaba Ave,"San Francisco, CA, 94132",4.0,3.0,1199000,4,1125,6505
+456 Los Palmos Dr,"San Francisco, CA, 94127",4.0,4.0,1299000,4,1218,7048
+64 Mercedes Way,"San Francisco, CA, 94127",4.0,3.5,1895000,4,1777,10281
+2855 Jackson St #102,"San Francisco, CA, 94115",4.0,2.5,2200000,4,2063,11936
+3835-3837 26th St,"San Francisco, CA, 94131",4.0,2.0,2649000,4,2485,14372
+407 Connecticut St,"San Francisco, CA, 94107",4.0,3.5,3195000,4,2997,17334
+1661 Beach St,"San Francisco, CA, 94123",4.0,3.0,3195000,4,2997,17334
+1644 Diamond,"San Francisco, CA, 94131",4.0,4.5,3895000,4,3653,21132
+537 Laidley St,"San Francisco, CA, 94131",4.0,4.0,4085000,4,3831,22163
+2838 Sacramento St,"San Francisco, CA, 94115",4.0,4.0,5795000,4,5435,31440
+2440 Filbert St,"San Francisco, CA, 94123",4.0,3.5,5995000,4,5623,32525
+1543 23rd Ave,"San Francisco, CA, 94122",5.0,3.0,1299999,5,975,5642
+206 Bosworth St,"San Francisco, CA, 94112",5.0,4.0,2095000,5,1572,9093
+86 Ord St,"San Francisco, CA, 94114",5.0,4.0,4795000,5,3598,20812
+16 West Clay St,"San Francisco, CA, 94121",6.0,4.5,6495000,6,4061,23492
+6 Nottingham Pl,"San Francisco, CA, 94133",9.0,4.0,2388888,9,996,5760
+12 Garnett Ter,"San Francisco, CA, 94124",2.0,1.0,249811,2,469,2711
+451 Kansas St #328,"San Francisco, CA, 94107",2.0,2.0,311231,2,584,3377
+3912-3914 Cesar Chavez St,"San Francisco, CA, 94131",2.0,1.0,1695000,2,604,3850
+55 Ora Way #308B,"San Francisco, CA, 94131",2.0,1.0,341794,2,641,3709
+888 7th St #207,"San Francisco, CA, 94107",2.0,1.0,357001,2,670,3874
+41 Kiska Rd,"San Francisco, CA, 94124",2.0,2.0,375623,2,705,4076
+2916 Arelious Walker Dr #6,"San Francisco, CA, 94124",2.0,1.0,447313,2,839,4854
+855 Folsom St #342,"San Francisco, CA, 94107",2.0,1.0,466125,2,874,5058
+270 Valencia St #401,"San Francisco, CA, 94103",2.0,1.0,482825,2,906,5239
+126 Dolphin Ct,"San Francisco, CA, 94124",2.0,1.0,489000,2,917,5306
+1335 Laguna St #6,"San Francisco, CA, 94115",2.0,1.0,499000,2,936,5415
+218 Grafton Ave,"San Francisco, CA, 94112",2.0,1.0,499000,2,936,5415
+212 Howth St,"San Francisco, CA, 94112",2.0,1.0,499000,2,936,5415
+28 Redondo St,"San Francisco, CA, 94124",2.0,2.0,499000,2,936,5415
+1676 Wallace Ave,"San Francisco, CA, 94124",2.0,1.0,500000,2,938,5425
+205 Salinas Ave,"San Francisco, CA, 94124",2.0,1.0,529000,2,992,5740
+239 Arleta Ave,"San Francisco, CA, 94134",2.0,1.0,529999,2,994,5751
+1151 Plymouth Ave,"San Francisco, CA, 94112",2.0,1.0,545000,2,1022,5914
+400 Alemany Blvd #1,"San Francisco, CA, 94110",2.0,1.5,575000,2,1079,6239
+515 Delta St,"San Francisco, CA, 94134",2.0,1.0,583000,2,1094,6326
+441 Rolph St,"San Francisco, CA, 94112",2.0,1.0,588000,2,1103,6380
+350 Athens St,"San Francisco, CA, 94112",2.0,2.5,588000,2,1103,6380
+5810 Mission St #304,"San Francisco, CA, 94112",2.0,2.0,589000,2,1105,6391
+2108 Great Highway Hwy #3,"San Francisco, CA, 94116",2.0,1.0,589000,2,1105,6391
+727 Andover St,"San Francisco, CA, 94110",2.0,1.0,595000,2,1116,6456
+343 Stoneridge Ln #5203,"San Francisco, CA, 94134",2.0,2.0,598000,2,1122,6489
+60 Mercury St,"San Francisco, CA, 94124",2.0,1.0,599000,2,1124,6500
+1387 Goettingen,"San Francisco, CA, 94134",2.0,1.0,599000,2,1124,6500
+27 Talbert St,"San Francisco, CA, 94134",2.0,1.0,599000,2,1124,6500
+2063 41st Ave,"San Francisco, CA, 94116",2.0,1.0,599000,2,1124,6500
+400 Alemany Blvd #19,"San Francisco, CA, 94110",2.0,1.5,599000,2,1124,6500
+1436 Ingalls St,"San Francisco, CA, 94124",2.0,1.0,610000,2,1144,6619
+218 Ordway St,"San Francisco, CA, 94134",2.0,1.0,619000,2,1161,6717
+8200 Oceanview Ter #408,"San Francisco, CA, 94132",2.0,2.0,625000,2,1172,6782
+130 Brazil Ave,"San Francisco, CA, 94112",2.0,1.0,625000,2,1172,6782
+208 N Lake Merced Hls #1A,"San Francisco, CA, 94132",2.0,2.0,628000,2,1178,6814
+3981 Alemany Blvd #110,"San Francisco, CA, 94132",2.0,2.0,629000,2,1180,6825
+3981 Alemany Blvd #209,"San Francisco, CA, 94132",2.0,2.0,629000,2,1180,6825
+301 Crescent Ct #3216,"San Francisco, CA, 94134",2.0,2.0,642000,2,1204,6966
+124 Majestic Ave,"San Francisco, CA, 94112",2.0,1.0,649000,2,1217,7042
+8100 Oceanview Ter #204,"San Francisco, CA, 94132",2.0,2.0,649000,2,1217,7042
+20 Drake St,"San Francisco, CA, 94112",2.0,1.0,649000,2,1217,7042
+840 Potrero Ave,"San Francisco, CA, 94110",2.0,1.0,649000,2,1217,7042
+157 A St,"South San Francisco, CA, 94080",2.0,1.0,650000,2,1219,7053
+501 Crescent Way #5310,"San Francisco, CA, 94134",2.0,2.0,649900,2,1219,7052
+1211 Bowdoin St,"San Francisco, CA, 94134",2.0,1.0,660000,2,1238,7162
+501 Crescent Way #5212,"San Francisco, CA, 94134",2.0,2.0,668000,2,1253,7248
+301 Crescent Ct #3116,"San Francisco, CA, 94134",2.0,2.0,670000,2,1257,7270
+162 Stoneridge Ln #1207,"San Francisco, CA, 94134",2.0,2.0,679000,2,1274,7368
+201 Pope St,"San Francisco, CA, 94112",2.0,2.0,679000,2,1274,7368
+98 Reddy St,"San Francisco, CA, 94124",2.0,1.0,680000,2,1276,7379
+5800 3rd St #1407,"San Francisco, CA, 94124",2.0,2.0,688000,2,1291,7465
+924 Dwight St,"San Francisco, CA, 94134",2.0,1.0,688888,2,1292,7475
+1 Crescent Way #1107,"San Francisco, CA, 94134",2.0,2.0,689000,2,1292,7476
+1435-1437 Revere Ave,"San Francisco, CA, 94124",2.0,1.0,695000,2,1304,7541
+537 Moultrie St,"San Francisco, CA, 94110",2.0,1.0,695000,2,1304,7541
+1914 34th Ave,"San Francisco, CA, 94116",2.0,1.0,695000,2,1304,7541
+2414 47th Ave,"San Francisco, CA, 94116",2.0,1.0,695000,2,1304,7541
+5122-A Diamond Heights Blvd #A,"San Francisco, CA, 94131",2.0,2.0,698000,2,1309,7574
+131 Naglee Ave,"San Francisco, CA, 94112",2.0,1.0,699000,2,1311,7585
+1488 Harrison St #101,"San Francisco, CA, 94103",2.0,2.0,699000,2,1311,7585
+624 Brussels St,"San Francisco, CA, 94134",2.0,1.0,699000,2,1311,7585
+1862 Ellis St #A,"San Francisco, CA, 94115",2.0,1.0,699000,2,1311,7585
+574 26th Ave #2,"San Francisco, CA, 94121",2.0,2.0,699000,2,1311,7585
+43 Winding Way,"San Francisco, CA, 94112",2.0,1.0,699000,2,1311,7585
+954 Key Ave,"San Francisco, CA, 94124",2.0,1.0,699000,2,1311,7585
+1285 Fitzgerald,"San Francisco, CA, 94124",2.0,1.0,699000,2,1311,7585
+615 Sargent St,"San Francisco, CA, 94132",2.0,1.0,699000,2,1311,7585
+287 Thrift St,"San Francisco, CA, 94112",2.0,2.0,699000,2,1311,7585
+427 Randolph St,"San Francisco, CA, 94132",2.0,1.5,699000,2,1311,7585
+323 Orizaba Ave,"San Francisco, CA, 94132",2.0,1.0,699000,2,1311,7585
+285 Bridgeview,"San Francisco, CA, 94124",2.0,2.0,699000,2,1311,7585
+31 Maddux Ave,"San Francisco, CA, 94124",2.0,1.0,700000,2,1313,7596
+16 Tioga Ave,"San Francisco, CA, 94134",2.0,1.0,699999,2,1313,7596
+227 Randolph St,"San Francisco, CA, 94132",2.0,1.0,725000,2,1360,7867
+3431 Mission St #4,"San Francisco, CA, 94110",2.0,1.0,725000,2,1360,7867
+227 Garfield St,"San Francisco, CA, 94132",2.0,1.0,725000,2,1360,7867
+5800 3rd St,"San Francisco, CA, 94124",2.0,2.0,728000,2,1366,7899
+5800 3rd St #1212,"San Francisco, CA, 94124",2.0,2.0,729000,2,1367,7910
+116 Caine Ave,"San Francisco, CA, 94112",2.0,1.0,748000,2,1403,8116
+194 Gaven St,"San Francisco, CA, 94134",2.0,1.0,748000,2,1403,8116
+38 Grafton Ave,"San Francisco, CA, 94112",2.0,1.0,749000,2,1405,8127
+5108 Diamond Heights #A,"San Francisco, CA, 94131",2.0,2.0,749000,2,1405,8127
+2686 44th Ave,"San Francisco, CA, 94116",2.0,1.0,749000,2,1405,8127
+2017 Grant Ave #1,"San Francisco, CA, 94133",2.0,1.0,749000,2,1405,8127
+419 Lakeview Ave,"San Francisco, CA, 94112",2.0,1.0,749000,2,1405,8127
+307 Page St #1,"San Francisco, CA, 94102",2.0,1.0,749000,2,1405,8127
+10 Harris Pl,"San Francisco, CA, 94123",2.0,1.0,750000,2,1407,8138
+536 27th St #2,"San Francisco, CA, 94131",2.0,1.0,769000,2,1443,8344
+1490 45th Ave,"San Francisco, CA, 94122",2.0,1.0,769000,2,1443,8344
+32 Perego Ter,"San Francisco, CA, 94131",2.0,2.0,775000,2,1454,8409
+1405 34th Ave,"San Francisco, CA, 94122",2.0,1.0,775000,2,1454,8409
+902 Corbett Ave #4,"San Francisco, CA, 94131",2.0,1.0,779000,2,1461,8453
+300 Baltimore Way,"San Francisco, CA, 94112",2.0,1.0,780000,2,1463,8464
+2685 Pine,"San Francisco, CA, 94115",2.0,1.0,785000,2,1473,8518
+75 Dichiera Ct,"San Francisco, CA, 94112",2.0,1.0,795000,2,1491,8626
+182 Galewood Cir,"San Francisco, CA, 94131",2.0,2.5,795000,2,1491,8626
+287 Monterey Blvd,"San Francisco, CA, 94131",2.0,1.0,798000,2,1497,8659
+3319 Lawton St,"San Francisco, CA, 94122",2.0,2.0,799000,2,1499,8670
+717 Rolph St,"San Francisco, CA, 94112",2.0,1.0,799000,2,1499,8670
+1415 Eddy St,"San Francisco, CA, 94115",2.0,1.0,799000,2,1499,8670
+254 Pope St,"San Francisco, CA, 94112",2.0,1.0,799000,2,1499,8670
+610 26th Ave,"San Francisco, CA, 94121",2.0,1.0,799000,2,1499,8670
+1080 Sutter St #503,"San Francisco, CA, 94109",2.0,1.0,799000,2,1499,8670
+880 Silver Ave,"San Francisco, CA, 94134",2.0,1.0,799000,2,1499,8670
+101-101 Cleo Rand,"San Francisco, CA, 94124",2.0,2.5,799000,2,1499,8670
+155 Harriet St #9,"San Francisco, CA, 94103",2.0,2.0,799000,2,1499,8670
+555 Athens St,"San Francisco, CA, 94112",2.0,1.25,799000,2,1499,8670
+875 Vermont St #203,"San Francisco, CA, 94107",2.0,1.0,799000,2,1499,8670
+1462 Newcomb Ave,"San Francisco, CA, 94124",2.0,2.0,799000,2,1499,8670
+1929 48th Ave,"San Francisco, CA, 94116",2.0,1.0,799000,2,1499,8670
+351 Niagara,"San Francisco, CA, 94112",2.0,1.0,799000,2,1499,8670
+563 Munich St,"San Francisco, CA, 94112",2.0,1.0,799000,2,1499,8670
+122 Venus St,"San Francisco, CA, 94124",2.0,2.0,799000,2,1499,8670
+834 Arkansas St #3,"San Francisco, CA, 94107",2.0,1.0,799000,2,1499,8670
+1018 Hollister Ave,"San Francisco, CA, 94124",2.0,2.0,799000,2,1499,8670
+4378 17th St #A,"San Francisco, CA, 94114",2.0,2.0,799000,2,1499,8670
+262 Frederick St #1,"San Francisco, CA, 94117",2.0,1.0,799000,2,1499,8670
+2262 42nd Ave,"San Francisco, CA, 94116",2.0,1.0,799000,2,1499,8670
+2444 15th St,"San Francisco, CA, 94114",2.0,1.0,799000,2,1499,8670
+2212-A 23rd St,"San Francisco, CA, 94107",2.0,1.0,799000,2,1499,8670
+1587 15th St #201,"San Francisco, CA, 94103",2.0,1.0,799000,2,1499,8670
+312 Bowdoin St,"San Francisco, CA, 94134",2.0,1.0,799000,2,1499,8670
+2401 44th Ave #5,"San Francisco, CA, 94116",2.0,2.0,799000,2,1499,8670
+422 Bright St,"San Francisco, CA, 94132",2.0,2.0,799000,2,1499,8670
+350 Ralston St,"San Francisco, CA, 94132",2.0,1.0,799000,2,1499,8670
+195 Maynard St,"San Francisco, CA, 94112",2.0,1.0,799000,2,1499,8670
+1 Putnam St,"San Francisco, CA, 94110",2.0,1.0,799000,2,1499,8670
+6 Mint Plz #703A,"San Francisco, CA, 94103",2.0,1.0,799000,2,1499,8670
+250 Circular Ave,"San Francisco, CA, 94131",2.0,1.0,799800,2,1500,8678
+990 Randolph St,"San Francisco, CA, 94132",2.0,1.0,799500,2,1500,8675
+3270 Market St,"San Francisco, CA, 94114",2.0,2.0,808000,2,1516,8767
+97 Lapham Way,"San Francisco, CA, 94112",2.0,1.0,815000,2,1529,8843
+2226 Ortega St,"San Francisco, CA, 94122",2.0,1.75,819000,2,1536,8887
+75 Roosevelt Way #2,"San Francisco, CA, 94114",2.0,2.0,825000,2,1548,8952
+3030 Anza St,"San Francisco, CA, 94121",2.0,1.0,829000,2,1555,8995
+1500 25th Ave,"San Francisco, CA, 94122",2.0,1.5,829000,2,1555,8995
+900 Bush #1008,"San Francisco, CA, 94109",2.0,2.0,829000,2,1555,8995
+781 Athens St,"San Francisco, CA, 94112",2.0,2.0,829988,2,1557,9006
+76 Mangels Ave,"San Francisco, CA, 94131",2.0,1.0,845000,2,1585,9169
+8 Montezuma St,"San Francisco, CA, 94110",2.0,1.0,849000,2,1593,9212
+1036 Potrero Ave #6,"San Francisco, CA, 94110",2.0,2.0,849000,2,1593,9212
+2075 Bancroft Ave,"San Francisco, CA, 94124",2.0,1.0,849000,2,1593,9212
+64 Sussex St,"San Francisco, CA, 94131",2.0,1.0,849000,2,1593,9212
+53 Edinburgh St,"San Francisco, CA, 94112",2.0,1.0,849000,2,1593,9212
+90 Aquavista Way,"San Francisco, CA, 94112",2.0,1.0,849000,2,1593,9212
+2786 39th Ave,"San Francisco, CA, 94116",2.0,1.5,849000,2,1593,9212
+456 Princeton St,"San Francisco, CA, 94134",2.0,1.0,849000,2,1593,9212
+1153 Leavenworth St,"San Francisco, CA, 94109",2.0,1.0,849000,2,1593,9212
+720 Gough #41,"San Francisco, CA, 94102",2.0,2.0,850000,2,1594,9223
+240 Sussex St,"San Francisco, CA, 94131",2.0,1.0,850000,2,1594,9223
+76 Bronte St,"San Francisco, CA, 94110",2.0,1.0,849999,2,1594,9223
+24 Lawrence Ave,"San Francisco, CA, 94112",2.0,1.0,850000,2,1594,9223
+1734 Bay St #106,"San Francisco, CA, 94123",2.0,1.0,850000,2,1594,9223
+1201-1203 45th Ave #1203,"San Francisco, CA, 94122",2.0,1.0,850000,2,1594,9223
+1273 Rhode Island St,"San Francisco, CA, 94107",2.0,2.0,859000,2,1611,9321
+674 Joost Ave,"San Francisco, CA, 94127",2.0,1.0,859000,2,1611,9321
+563 Minna St #1,"San Francisco, CA, 94103",2.0,2.0,900000,2,1611,9266
+276 Friedell,"San Francisco, CA, 94124",2.0,2.0,865000,2,1623,9386
+89 Westwood Dr,"San Francisco, CA, 94112",2.0,1.0,875000,2,1641,9494
+620 Prentiss St,"San Francisco, CA, 94110",2.0,1.0,879000,2,1649,9538
+4161 23rd St,"San Francisco, CA, 94114",2.0,1.0,879000,2,1649,9538
+1338 48th Ave,"San Francisco, CA, 94122",2.0,2.0,879000,2,1649,9538
+180 7th St #301,"San Francisco, CA, 94103",2.0,2.0,879000,2,1649,9538
+539 Los Palmos Dr,"San Francisco, CA, 94127",2.0,1.0,879000,2,1649,9538
+112 Russ St,"San Francisco, CA, 94103",2.0,2.0,885000,2,1660,9603
+236 Shipley St #304,"San Francisco, CA, 94107",2.0,2.0,885000,2,1660,9603
+946 Stockton St #6B,"San Francisco, CA, 94108",2.0,1.5,888000,2,1666,9635
+70 Tingley St,"San Francisco, CA, 94112",2.0,1.0,888000,2,1666,9635
+1711 19th Ave,"San Francisco, CA, 94122",2.0,2.0,888000,2,1666,9635
+616 20th St #510,"San Francisco, CA, 94107",2.0,1.0,888000,2,1666,9635
+601 Van Ness Ave #8,"San Francisco, CA, 94102",2.0,2.0,895000,2,1679,9711
+218 Justin Dr,"San Francisco, CA, 94112",2.0,1.0,895000,2,1679,9711
+148 Cuvier St,"San Francisco, CA, 94112",2.0,1.0,895000,2,1679,9711
+1 Crescent Way #1109,"San Francisco, CA, 94134",2.0,2.0,895000,2,1679,9711
+2259 44th Ave,"San Francisco, CA, 94116",2.0,2.0,895000,2,1679,9711
+1846 38th Ave,"San Francisco, CA, 94122",2.0,1.0,898000,2,1685,9744
+945 Capp St #4,"San Francisco, CA, 94110",2.0,1.0,898000,2,1685,9744
+1463 40th Ave,"San Francisco, CA, 94122",2.0,1.0,899000,2,1686,9755
+15 Sunview Dr,"San Francisco, CA, 94131",2.0,1.0,899000,2,1686,9755
+3839 Folsom St,"San Francisco, CA, 94110",2.0,1.0,899000,2,1686,9755
+155 Lexington St,"San Francisco, CA, 94110",2.0,1.0,899000,2,1686,9755
+1655 48th Ave,"San Francisco, CA, 94122",2.0,1.0,899000,2,1686,9755
+375 Prentiss St,"San Francisco, CA, 94110",2.0,1.0,899000,2,1686,9755
+2628 Sutter St #A,"San Francisco, CA, 94115",2.0,2.0,899000,2,1686,9755
+145 Gardenside Dr #9,"San Francisco, CA, 94131",2.0,1.5,899000,2,1686,9755
+920 Baker St #A,"San Francisco, CA, 94118",2.0,1.0,899000,2,1686,9755
+1463 19th Ave,"San Francisco, CA, 94122",2.0,1.0,899000,2,1686,9755
+3184 Mission St #304,"San Francisco, CA, 94110",2.0,2.0,899000,2,1686,9755
+1425 43rd Ave,"San Francisco, CA, 94122",2.0,2.0,899000,2,1686,9755
+430 Hayes #201,"San Francisco, CA, 94102",2.0,1.0,899000,2,1686,9755
+1835 Franklin St #602,"San Francisco, CA, 94109",2.0,2.0,899000,2,1686,9755
+26 Staples Ave,"San Francisco, CA, 94131",2.0,1.0,899000,2,1686,9755
+789 Buena Vista Ave #202,"San Francisco, CA, 94117",2.0,1.0,899000,2,1686,9755
+2512 23rd Ave,"San Francisco, CA, 94116",2.0,1.0,899000,2,1686,9755
+388 Fulton St #205,"San Francisco, CA, 94102",2.0,1.0,899000,2,1686,9755
+921-A Florida St,"San Francisco, CA, 94110",2.0,1.0,899000,2,1686,9755
+319 Naples St,"San Francisco, CA, 94112",2.0,1.0,899000,2,1686,9755
+1119 Cayuga Ave,"San Francisco, CA, 94112",2.0,2.0,899000,2,1686,9755
+140 South Van Ness Ave #1022,"San Francisco, CA, 94103",2.0,2.0,899000,2,1686,9755
+1200 Gough St #7A,"San Francisco, CA, 94109",2.0,2.0,900000,2,1688,9766
+166 Park St,"San Francisco, CA, 94110",2.0,1.0,900000,2,1688,9766
+3133 Taraval St,"San Francisco, CA, 94116",2.0,1.0,900000,2,1688,9766
+317 29th St #303,"San Francisco, CA, 94131",2.0,2.0,948000,2,1697,9670
+236 Shipley St #202,"San Francisco, CA, 94107",2.0,2.0,915000,2,1716,9928
+601 Van Ness Ave #105,"San Francisco, CA, 94102",2.0,2.0,925000,2,1735,10037
+972 Plymouth Ave,"San Francisco, CA, 94112",2.0,2.0,929000,2,1743,10080
+1539 24th Ave,"San Francisco, CA, 94122",2.0,1.0,929000,2,1743,10080
+260 King St #671,"San Francisco, CA, 94107",2.0,2.0,930000,2,1745,10091
+1299 Bush St #403,"San Francisco, CA, 94109",2.0,2.0,979000,2,1753,10080
+431 Gates St,"San Francisco, CA, 94110",2.0,1.0,935000,2,1754,10145
+98 Mullen Ave,"San Francisco, CA, 94110",2.0,1.0,935000,2,1754,10145
+155 Gardenside Dr #35,"San Francisco, CA, 94131",2.0,2.5,939000,2,1761,10189
+1708 Fulton St,"San Francisco, CA, 94117",2.0,1.0,939000,2,1761,10189
+1651 24th Ave,"San Francisco, CA, 94122",2.0,1.0,940000,2,1763,10200
+350 Broderick St #304,"San Francisco, CA, 94117",2.0,2.0,990000,2,1772,10193
+388 Fulton St #302,"San Francisco, CA, 94102",2.0,1.0,948000,2,1778,10287
+53 Stillings Ave,"San Francisco, CA, 94131",2.0,1.0,948000,2,1778,10287
+308 Sanchez St,"San Francisco, CA, 94114",2.0,1.0,949000,2,1780,10297
+140 South Van Ness Ave #840,"San Francisco, CA, 94103",2.0,2.0,949000,2,1780,10297
+1158 Sutter St #10,"San Francisco, CA, 94109",2.0,2.0,949000,2,1780,10297
+273 Chattanooga St,"San Francisco, CA, 94114",2.0,1.0,949000,2,1780,10297
+441 Myra Way,"San Francisco, CA, 94127",2.0,1.0,949000,2,1780,10297
+148 Cole St,"San Francisco, CA, 94117",2.0,1.0,949000,2,1780,10297
+829 Balboa St,"San Francisco, CA, 94118",2.0,1.0,949000,2,1780,10297
+191 Sussex St,"San Francisco, CA, 94131",2.0,1.0,949000,2,1780,10297
+1680 Lombard St ##2,"San Francisco, CA, 94123",2.0,1.0,949500,2,1781,10303
+1063 Capitol Ave #29,"San Francisco, CA, 94112",2.0,2.0,950000,2,1782,10308
+1587 15th St #401,"San Francisco, CA, 94103",2.0,1.0,950000,2,1782,10308
+1595 Thomas St,"San Francisco, CA, 94124",2.0,1.0,950000,2,1782,10308
+1725 Noe St,"San Francisco, CA, 94131",2.0,1.0,950000,2,1782,10308
+2350 25th Ave,"San Francisco, CA, 94116",2.0,1.0,950000,2,1782,10308
+267 Ulloa St,"San Francisco, CA, 94127",2.0,1.0,950000,2,1782,10308
+140 South Van Ness Ave #522,"San Francisco, CA, 94103",2.0,2.0,959000,2,1799,10406
+1700 Lawton St,"San Francisco, CA, 94122",2.0,1.5,959000,2,1799,10406
+388 Fulton St #413,"San Francisco, CA, 94102",2.0,1.0,968000,2,1816,10504
+200 Portola Dr #102,"San Francisco, CA, 94131",2.0,2.0,969000,2,1818,10514
+388 Fulton St #511,"San Francisco, CA, 94102",2.0,1.0,974000,2,1827,10569
+792 19th Ave,"San Francisco, CA, 94121",2.0,1.0,975000,2,1829,10580
+463 Huron Ave,"San Francisco, CA, 94112",2.0,1.0,975000,2,1829,10580
+205 Mullen Ave,"San Francisco, CA, 94110",2.0,3.0,975000,2,1829,10580
+23-25 Brompton Ave,"San Francisco, CA, 94131",2.0,1.0,975500,2,1830,10585
+350 Broderick St #208,"San Francisco, CA, 94117",2.0,2.0,980000,2,1838,10634
+236 Shipley St #402,"San Francisco, CA, 94107",2.0,2.0,985000,2,1848,10688
+558 28th Ave #202,"San Francisco, CA, 94121",2.0,2.0,989000,2,1855,10731
+1679 Church St,"San Francisco, CA, 94114",2.0,1.5,989000,2,1855,10731
+246 Missouri St,"San Francisco, CA, 94107",2.0,2.0,995000,2,1866,10797
+531 Hill St,"San Francisco, CA, 94114",2.0,1.0,995000,2,1866,10797
+1474 34th Ave,"San Francisco, CA, 94122",2.0,1.0,995000,2,1866,10797
+4350 17th St,"San Francisco, CA, 94114",2.0,1.5,995000,2,1866,10797
+166 Molimo Dr,"San Francisco, CA, 94127",2.0,1.0,995000,2,1866,10797
+2202 Golden Gate Ave,"San Francisco, CA, 94118",2.0,1.5,995000,2,1866,10797
+199 Tiffany Ave #203,"San Francisco, CA, 94110",2.0,2.0,995000,2,1866,10797
+3026 Laguna St,"San Francisco, CA, 94123",2.0,1.0,995000,2,1866,10797
+1566 Fell St,"San Francisco, CA, 94117",2.0,1.5,995000,2,1866,10797
+2407 Harrison St #19,"San Francisco, CA, 94110",2.0,3.0,995000,2,1866,10797
+151 Alice B. Toklas Pl #402,"San Francisco, CA, 94109",2.0,2.0,995000,2,1866,10797
