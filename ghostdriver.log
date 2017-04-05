@@ -1,0 +1,22 @@
+[INFO  - 2017-04-02T01:42:37.066Z] GhostDriver - Main - running on port 59805
+[INFO  - 2017-04-02T01:42:37.574Z] Session [a6bce8f0-1745-11e7-bd1d-050a23eaa76f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-04-02T01:42:37.574Z] Session [a6bce8f0-1745-11e7-bd1d-050a23eaa76f] - page.customHeaders:  - {}
+[INFO  - 2017-04-02T01:42:37.574Z] Session [a6bce8f0-1745-11e7-bd1d-050a23eaa76f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-04-02T01:42:37.574Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6bce8f0-1745-11e7-bd1d-050a23eaa76f
+[ERROR - 2017-04-02T01:42:43.846Z] Session [a6bce8f0-1745-11e7-bd1d-050a23eaa76f] - page.onError - msg: AF onError: , template id: signInForm, op: pre-submit validation, error: {"invalidKeys":[{"message":"Need valid e-mail address, like '<b>user@domain.com</b>'","name":"email","type":"regEx","value":"bsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.combsteve5205@gmail.com"}]}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-02T01:42:43.846Z] Session [a6bce8f0-1745-11e7-bd1d-050a23eaa76f] - page.onError - stack:
+  error (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-02T01:42:49.095Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1491097369063
+
+  phantomjs://platform/console++.js:263 in error
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read EIO
+    at exports._errnoException (util.js:1026:11)
+    at TTY.onread (net.js:563:26)
