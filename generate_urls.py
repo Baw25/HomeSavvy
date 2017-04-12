@@ -3,7 +3,7 @@
 import re, string, csv
 
 #read file 
-with open("scrape_home_4_5_17.txt","r") as f:
+with open("AddressIDScrape2_4_7_17.txt","r") as f:
   total = f.read().splitlines()
 
 total_urls = []
@@ -26,7 +26,7 @@ with open("url-Ids.csv","r") as g:
   all_Ids = g.read().splitlines()
 
 # Open and write initial urls
-csvfile = open("total_urls_combined.csv", "w") 
+csvfile = open("total_urls_complete3.csv", "w") 
 field_names = ["urls"]
 writer = csv.DictWriter(csvfile, fieldnames=field_names)
 writer.writeheader()

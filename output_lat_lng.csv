@@ -1,385 +1,128 @@
 address,lat,lng
-"1545 Pine St #209 San Francisco, CA, 94109",37.7892442,-122.4212438
-"201 Folsom St #23E San Francisco, CA, 94105",37.7886997,-122.39226
-"219 Brannan St #16K San Francisco, CA, 94107",37.7830568,-122.3901601
-"955 Wisconsin St San Francisco, CA, 94107",37.7554966,-122.3985203
-"2121 Webster St #308 San Francisco, CA, 94115",37.7902213,-122.4329717
-"425 1st St #5302 San Francisco, CA, 94105",37.7861411,-122.392459
-"1251 Revere Ave San Francisco, CA, 94124",37.7278643,-122.3838547
-"613 La Salle Ave #68 San Francisco, CA, 94124",37.7273614,-122.3729162
-"1622 Ingalls St San Francisco, CA, 94124",37.7289198,-122.3844079
-"4451 Mission St #301 San Francisco, CA, 94112",37.7268146,-122.4328508
-"1941 48th Ave San Francisco, CA, 94116",37.7502094,-122.5075616
-"75 Brighton Ave San Francisco, CA, 94122",37.7195905,-122.4553397
-"140 Ocean Ave San Francisco, CA, 94112",37.7236588,-122.4398122
-"1523 41st Ave San Francisco, CA, 94122",37.7582949,-122.50073
-"215 Bradford St San Francisco, CA, 94110",37.739355,-122.409341
-"2574 44th Ave San Francisco, CA, 94116",37.7386399,-122.50192
-"39 Brewster St San Francisco, CA, 94110",37.7458301,-122.4065028
-"144 Putnam St San Francisco, CA, 94110",37.737609,-122.411119
-"849 44th Ave San Francisco, CA, 94121",37.772563,-122.504944
-"476 Joost Ave San Francisco, CA, 94127",37.732572,-122.446099
-"1951 9th Ave San Francisco, CA, 94116",37.7518843,-122.4657047
-"490 Joost Ave San Francisco, CA, 94127",37.732571,-122.446444
-"29 Levant San Francisco, CA, 94114",37.7645806,-122.4421962
-"4045 Ocean Ave San Francisco, CA, 94132",37.7320204,-122.4877642
-"28 Winfield St San Francisco, CA, 94110",37.7449017,-122.4172875
-"396 Guerrero St San Francisco, CA, 94103",37.7649803,-122.4243613
-"650 Chestnut St #405 San Francisco, CA, 94133",37.803934,-122.414117
-"2172 Fell St San Francisco, CA, 94117",37.772267,-122.453582
-"2125 Bryant St #308 San Francisco, CA, 94110",37.7596546,-122.4095583
-"110 Montcalm St San Francisco, CA, 94110",37.7465396,-122.4070828
-"3583 Sacramento St San Francisco, CA, 94118",37.7874639,-122.451542
-"152 Fairmount St San Francisco, CA, 94131",37.7389943,-122.4266784
-"148 Lower Ter San Francisco, CA, 94114",37.763469,-122.442364
-"2241 Sacramento St #5 San Francisco, CA, 94115",37.790104,-122.429743
-"861 27th St San Francisco, CA, 94131",37.745977,-122.438844
-"225 Laguna St San Francisco, CA, 94102-5622",37.7732249,-122.42591
-"407 Missouri St San Francisco, CA, 94107",37.761126,-122.396075
-"221 Chenery St San Francisco, CA, 94131",37.7384579,-122.4258447
-"1450 Franklin St #1302 San Francisco, CA, 94109",37.7881078,-122.4233468
-"2230 Bush St San Francisco, CA, 94115",37.7870529,-122.4340451
-"301 Main St #37B San Francisco, CA, 94105",37.789525,-122.3911753
-"106-108 Sadowa St San Francisco, CA, 94112",37.71240540000001,-122.4565118
-"131 Raymond Ave San Francisco, CA, 94134",37.7126692,-122.4060211
-"4 Richards Cir San Francisco, CA, 94124",37.7355892,-122.3862092
-"900 Girard St San Francisco, CA, 94134",37.7210167,-122.4021842
-"561 Hearst Ave San Francisco, CA, 94112",37.730434,-122.450293
-"801 Excelsior Ave San Francisco, CA, 94112",37.7232534,-122.426996
-"190 Mary Teresa St #2 San Francisco, CA, 94134",37.7137643,-122.3985505
-"460 Lansdale Ave San Francisco, CA, 94127",37.73595419999999,-122.4553212
-"109 Turquoise Way San Francisco, CA, 94131",37.7434738,-122.4443016
-"7935 Geary Blvd San Francisco, CA, 94121",37.7789027,-122.504621
-"110 Steiner St San Francisco, CA, 94117",37.7703131,-122.4314956
-"556 Elizabeth St San Francisco, CA, 94114",37.752326,-122.4332037
-"1150 Lombard St #8 San Francisco, CA, 94109",37.8021794,-122.4205944
-"1661 Beach St San Francisco, CA, 94123",37.804344,-122.436333
-"4545 25th St San Francisco, CA, 94114",37.7491555,-122.4400809
-"2151 Laguna St #3 San Francisco, CA, 94115",37.791114,-122.429586
-"69 Bitting Ave San Francisco, CA, 94124",37.7268641,-122.3986841
-"148 16th Ave San Francisco, CA, 94118",37.7853301,-122.4753095
-"12 Garnett Ter San Francisco, CA, 94124-2572",37.73308,-122.38209
-"451 Kansas St #328 San Francisco, CA, 94107",37.7638443,-122.4029888
-"3912-3914 Cesar Chavez St San Francisco, CA, 94131-2004",37.7478332,-122.4275802
-"55 Ora Way #308B San Francisco, CA, 94131",37.7413382,-122.4369862
-"888 7th St #207 San Francisco, CA, 94107",37.770553,-122.4004052
-"41 Kiska Rd San Francisco, CA, 94124",37.73021300000001,-122.378984
-"2916 Arelious Walker Dr #6 San Francisco, CA, 94124",37.7173078,-122.3861771
-"855 Folsom St #342 San Francisco, CA, 94107",37.7807737,-122.4021633
-"270 Valencia St #401 San Francisco, CA, 94103",37.7685554,-122.4225153
-"126 Dolphin Ct San Francisco, CA, 94124",37.7282089,-122.371007
-"1335 Laguna St #6 San Francisco, CA, 94115",37.7834886,-122.4278332
-"218 Grafton Ave San Francisco, CA, 94112",37.720255,-122.455537
-"212 Howth St San Francisco, CA, 94112-2416",37.7206831,-122.4512892
-"28 Redondo St San Francisco, CA, 94124",37.718347,-122.392583
-"1676 Wallace Ave San Francisco, CA, 94124",37.728465,-122.39232
-"205 Salinas Ave San Francisco, CA, 94124",37.7210309,-122.3985833
-"239 Arleta Ave San Francisco, CA, 94134",37.7139049,-122.407635
-"1151 Plymouth Ave San Francisco, CA, 94112",37.7229226,-122.4563504
-"400 Alemany Blvd #1 San Francisco, CA, 94110",37.7331285,-122.41458
-"370 Stoneridge Ln San Francisco, CA, 94134",37.71023,-122.426265
-"8300 Oceanview Ter #205 San Francisco, CA, 94132",37.710069,-122.467411
-"678 Moscow St San Francisco, CA, 94112",37.71704220000001,-122.4310962
-"104 Trumbull St San Francisco, CA, 94112",37.730553,-122.42815
-"1514 Quesada Ave San Francisco, CA, 94124",37.73173999999999,-122.388098
-"215 Red Rock Way #J204 San Francisco, CA, 94131",37.7456324,-122.4425825
-"875 La Playa St #383 San Francisco, CA, 94121",37.7716662,-122.5103364
-"167 Vienna St San Francisco, CA, 94112-2107",37.7255619,-122.426221
-"227 Panorama Dr San Francisco, CA, 94131",37.749014,-122.452401
-"874 Silver Ave San Francisco, CA, 94134",37.7287754,-122.4177948
-"519 Garfield St San Francisco, CA, 94132",37.719536,-122.4675741
-"2247 45th Ave San Francisco, CA, 94116",37.7446551,-122.5039959
-"1884 Bush St San Francisco, CA, 94109",37.7878096,-122.4283142
-"747 Lyon St #2 San Francisco, CA, 94115",37.7778468,-122.4436402
-"619 Haight St San Francisco, CA, 94117-3304",37.77161299999999,-122.432482
-"50 Jerrold Ave #409 San Francisco, CA, 94124",37.7277605,-122.3695908
-"3861 25th St San Francisco, CA, 94114",37.749907,-122.426374
-"20 Meadowbrook Dr San Francisco, CA, 94132",37.7338025,-122.4843943
-"887 47th Ave San Francisco, CA, 94121-3207",37.771768,-122.508035
-"1117 Alabama St #A San Francisco, CA, 94110",37.753741,-122.410786
-"1237 Chestnut St #5 San Francisco, CA, 94109-1048",37.8021057,-122.4240269
-"195 25th Ave #101 San Francisco, CA, 94121",37.7859942,-122.48533
-"192 Coleman St San Francisco, CA, 94124",37.7273661,-122.3688885
-"156 Guerrero St #101 San Francisco, CA, 94103",37.768724,-122.424851
-"111 Monterey Blvd San Francisco, CA, 94131",37.7314015,-122.4378595
-"710 17th Ave San Francisco, CA, 94121",37.774559,-122.475473
-"701 Minna St #14 San Francisco, CA, 94103",37.7767297,-122.4127364
-"2032 Ellis St San Francisco, CA, 94107",37.78166,-122.439744
-"88 King St #110 San Francisco, CA, 94107",37.7806904,-122.3892201
-"1483 Sutter St #404 San Francisco, CA, 94109-5476",37.7867735,-122.4241362
-"10 Miller Pl #701 San Francisco, CA, 94108",37.7932132,-122.4089808
-"2040 Sutter St #301 San Francisco, CA, 94115",37.7861602,-122.4342124
-"1441 Jones St #304 San Francisco, CA, 94109",37.79459,-122.4151234
-"401 Harrison St #7F San Francisco, CA, 94105",37.7863987,-122.3920534
-"190 7th St #2 San Francisco, CA, 94103",37.7780056,-122.4098162
-"1545 Pine St #707 San Francisco, CA, 94109",37.7892442,-122.4212438
-"110 Channel St #102 San Francisco, CA, 94158",37.7733155,-122.3930001
-"1000 3rd St #822 San Francisco, CA, 94158",37.7734359,-122.3898896
-"1141 Church St San Francisco, CA, 94114",37.7526159,-122.4272773
-"1000 3rd St #403 San Francisco, CA, 94158",37.7734359,-122.3898896
-"44 Valley St San Francisco, CA, 94110",37.744953,-122.423283
-"8-14 Cypress St San Francisco, CA, 94110",37.75196100000001,-122.416893
-"1545 Pine St #209 San Francisco, CA, 94109",37.7892442,-122.4212438
-"201 Folsom St #23E San Francisco, CA, 94105",37.7886997,-122.39226
-"219 Brannan St #16K San Francisco, CA, 94107",37.7830568,-122.3901601
-"955 Wisconsin St San Francisco, CA, 94107",37.7554966,-122.3985203
-"2121 Webster St #308 San Francisco, CA, 94115",37.7902213,-122.4329717
-"425 1st St #5302 San Francisco, CA, 94105",37.7861411,-122.392459
-"1251 Revere Ave San Francisco, CA, 94124",37.7278643,-122.3838547
-"613 La Salle Ave #68 San Francisco, CA, 94124",37.7273614,-122.3729162
-"1622 Ingalls St San Francisco, CA, 94124",37.7289198,-122.3844079
-"4451 Mission St #301 San Francisco, CA, 94112",37.7268146,-122.4328508
-"1941 48th Ave San Francisco, CA, 94116",37.7502094,-122.5075616
-"75 Brighton Ave San Francisco, CA, 94122",37.7195905,-122.4553397
-"140 Ocean Ave San Francisco, CA, 94112",37.7236588,-122.4398122
-"215 Bradford St San Francisco, CA, 94110",37.739355,-122.409341
-"1523 41st Ave San Francisco, CA, 94122",37.7582949,-122.50073
-"2574 44th Ave San Francisco, CA, 94116",37.7386399,-122.50192
-"39 Brewster St San Francisco, CA, 94110",37.7458301,-122.4065028
-"144 Putnam St San Francisco, CA, 94110",37.737609,-122.411119
-"849 44th Ave San Francisco, CA, 94121",37.772563,-122.504944
-"476 Joost Ave San Francisco, CA, 94127",37.732572,-122.446099
-"1951 9th Ave San Francisco, CA, 94116",37.7518843,-122.4657047
-"490 Joost Ave San Francisco, CA, 94127",37.732571,-122.446444
-"29 Levant San Francisco, CA, 94114",37.7645806,-122.4421962
-"4045 Ocean Ave San Francisco, CA, 94132",37.7320204,-122.4877642
-"28 Winfield St San Francisco, CA, 94110",37.7449017,-122.4172875
-"396 Guerrero St San Francisco, CA, 94103",37.7649803,-122.4243613
-"650 Chestnut St #405 San Francisco, CA, 94133",37.803934,-122.414117
-"2172 Fell St San Francisco, CA, 94117",37.772267,-122.453582
-"2125 Bryant St #308 San Francisco, CA, 94110",37.7596546,-122.4095583
-"110 Montcalm St San Francisco, CA, 94110",37.7465396,-122.4070828
-"3583 Sacramento St San Francisco, CA, 94118",37.7874639,-122.451542
-"152 Fairmount St San Francisco, CA, 94131",37.7389943,-122.4266784
-"148 Lower Ter San Francisco, CA, 94114",37.763469,-122.442364
-"2241 Sacramento St #5 San Francisco, CA, 94115",37.790104,-122.429743
-"861 27th St San Francisco, CA, 94131",37.745977,-122.438844
-"225 Laguna St San Francisco, CA, 94102-5622",37.7732249,-122.42591
-"407 Missouri St San Francisco, CA, 94107",37.761126,-122.396075
-"221 Chenery St San Francisco, CA, 94131",37.7384579,-122.4258447
-"1450 Franklin St #1302 San Francisco, CA, 94109",37.7881078,-122.4233468
-"2230 Bush St San Francisco, CA, 94115",37.7870529,-122.4340451
-"301 Main St #37B San Francisco, CA, 94105",37.789525,-122.3911753
-"131 Raymond Ave San Francisco, CA, 94134",37.7126692,-122.4060211
-"106-108 Sadowa St San Francisco, CA, 94112",37.71240540000001,-122.4565118
-"4 Richards Cir San Francisco, CA, 94124",37.7355892,-122.3862092
-"900 Girard St San Francisco, CA, 94134",37.7210167,-122.4021842
-"561 Hearst Ave San Francisco, CA, 94112",37.730434,-122.450293
-"801 Excelsior Ave San Francisco, CA, 94112",37.7232534,-122.426996
-"190 Mary Teresa St #2 San Francisco, CA, 94134",37.7137643,-122.3985505
-"460 Lansdale Ave San Francisco, CA, 94127",37.73595419999999,-122.4553212
-"109 Turquoise Way San Francisco, CA, 94131",37.7434738,-122.4443016
-"7935 Geary Blvd San Francisco, CA, 94121",37.7789027,-122.504621
-"110 Steiner St San Francisco, CA, 94117",37.7703131,-122.4314956
-"556 Elizabeth St San Francisco, CA, 94114",37.752326,-122.4332037
-"1150 Lombard St #8 San Francisco, CA, 94109",37.8021794,-122.4205944
-"1661 Beach St San Francisco, CA, 94123",37.804344,-122.436333
-"4545 25th St San Francisco, CA, 94114",37.7491555,-122.4400809
-"2151 Laguna St #3 San Francisco, CA, 94115",37.791114,-122.429586
-"69 Bitting Ave San Francisco, CA, 94124",37.7268641,-122.3986841
-"148 16th Ave San Francisco, CA, 94118",37.7853301,-122.4753095
-"12 Garnett Ter San Francisco, CA, 94124-2572",37.73308,-122.38209
-"451 Kansas St #328 San Francisco, CA, 94107",37.7638443,-122.4029888
-"3912-3914 Cesar Chavez St San Francisco, CA, 94131-2004",37.7478332,-122.4275802
-"55 Ora Way #308B San Francisco, CA, 94131",37.7413382,-122.4369862
-"888 7th St #207 San Francisco, CA, 94107",37.770553,-122.4004052
-"41 Kiska Rd San Francisco, CA, 94124",37.73021300000001,-122.378984
-"2916 Arelious Walker Dr #6 San Francisco, CA, 94124",37.7173078,-122.3861771
-"855 Folsom St #342 San Francisco, CA, 94107",37.7807737,-122.4021633
-"270 Valencia St #401 San Francisco, CA, 94103",37.7685554,-122.4225153
-"126 Dolphin Ct San Francisco, CA, 94124",37.7282089,-122.371007
-"1335 Laguna St #6 San Francisco, CA, 94115",37.7834886,-122.4278332
-"218 Grafton Ave San Francisco, CA, 94112",37.720255,-122.455537
-"212 Howth St San Francisco, CA, 94112-2416",37.7206831,-122.4512892
-"28 Redondo St San Francisco, CA, 94124",37.718347,-122.392583
-"1676 Wallace Ave San Francisco, CA, 94124",37.728465,-122.39232
-"205 Salinas Ave San Francisco, CA, 94124",37.7210309,-122.3985833
-"239 Arleta Ave San Francisco, CA, 94134",37.7139049,-122.407635
-"1151 Plymouth Ave San Francisco, CA, 94112",37.7229226,-122.4563504
-"400 Alemany Blvd #1 San Francisco, CA, 94110",37.7331285,-122.41458
-"515 Delta St San Francisco, CA, 94134",37.713459,-122.409152
-"350 Athens St San Francisco, CA, 94112",37.7224901,-122.4280342
-"441 Rolph St San Francisco, CA, 94112",37.7126919,-122.434202
-"2108 Great Highway Hwy #3 San Francisco, CA, 94116",37.74689180000001,-122.5074052
-"5810 Mission St #304 San Francisco, CA, 94112",37.7095133,-122.4515186
-"727 Andover St San Francisco, CA, 94110",37.73408999999999,-122.4167056
-"343 Stoneridge Ln #5203 San Francisco, CA, 94134",37.71023,-122.426265
-"171 Ledyard St San Francisco, CA, 94124",37.7319561,-122.4003737
-"60 Mercury St San Francisco, CA, 94124-2253",37.7317211,-122.4017333
-"1387 Goettingen San Francisco, CA, 94134-2234",37.715092,-122.401447
-"400 Alemany Blvd #19 San Francisco, CA, 94110",37.7331285,-122.41458
-"2063 41st Ave San Francisco, CA, 94116",37.7482943,-122.499894
-"27 Talbert St San Francisco, CA, 94134",37.711238,-122.405863
-"1436 Ingalls St San Francisco, CA, 94124",37.7300104,-122.383427
-"218 Ordway St San Francisco, CA, 94134",37.7199527,-122.4030442
-"8200 Oceanview Ter #408 San Francisco, CA, 94132",37.710275,-122.4674343
-"130 Brazil Ave San Francisco, CA, 94112",37.72392,-122.433735
-"208 N Lake Merced Hls #1A San Francisco, CA, 94132-2921",37.713405,-122.4833831
-"3981 Alemany Blvd #110 San Francisco, CA, 94132",37.7104012,-122.4688543
-"3981 Alemany Blvd #209 San Francisco, CA, 94132",37.7104012,-122.4688543
-"301 Crescent Ct #3216 San Francisco, CA, 94134",37.711177,-122.388087
-"135 Farallones St San Francisco, CA, 94112",37.713901,-122.4573318
-"20 Drake St San Francisco, CA, 94112",37.7104563,-122.437092
-"124 Majestic Ave San Francisco, CA, 94112",37.7166764,-122.4523839
-"8100 Oceanview Ter #204 San Francisco, CA, 94132",37.7104841,-122.4666514
-"840 Potrero Ave San Francisco, CA, 94110",37.7587203,-122.4070766
-"157 A St South San Francisco, CA, 94080",37.6525109,-122.430569
-"501 Crescent Way #5310 San Francisco, CA, 94134",37.711929,-122.388606
-"1211 Bowdoin St San Francisco, CA, 94134-1819",37.7208539,-122.4083041
-"501 Crescent Way #5212 San Francisco, CA, 94134",37.711929,-122.388606
-"370 Stoneridge Ln San Francisco, CA, 94134",37.71023,-122.426265
-"8300 Oceanview Ter #205 San Francisco, CA, 94132",37.710069,-122.467411
-"678 Moscow St San Francisco, CA, 94112",37.71704220000001,-122.4310962
-"104 Trumbull St San Francisco, CA, 94112",37.730553,-122.42815
-"1514 Quesada Ave San Francisco, CA, 94124",37.73173999999999,-122.388098
-"215 Red Rock Way #J204 San Francisco, CA, 94131",37.7456324,-122.4425825
-"875 La Playa St #383 San Francisco, CA, 94121",37.7716662,-122.5103364
-"167 Vienna St San Francisco, CA, 94112-2107",37.7255619,-122.426221
-"227 Panorama Dr San Francisco, CA, 94131",37.749014,-122.452401
-"874 Silver Ave San Francisco, CA, 94134",37.7287754,-122.4177948
-"519 Garfield St San Francisco, CA, 94132",37.719536,-122.4675741
-"2247 45th Ave San Francisco, CA, 94116",37.7446551,-122.5039959
-"1884 Bush St San Francisco, CA, 94109",37.7878096,-122.4283142
-"747 Lyon St #2 San Francisco, CA, 94115",37.7778468,-122.4436402
-"619 Haight St San Francisco, CA, 94117-3304",37.77161299999999,-122.432482
-"50 Jerrold Ave #409 San Francisco, CA, 94124",37.7277605,-122.3695908
-"3861 25th St San Francisco, CA, 94114",37.749907,-122.426374
-"887 47th Ave San Francisco, CA, 94121-3207",37.771768,-122.508035
-"20 Meadowbrook Dr San Francisco, CA, 94132",37.7338025,-122.4843943
-"1117 Alabama St #A San Francisco, CA, 94110",37.753741,-122.410786
-"1237 Chestnut St #5 San Francisco, CA, 94109-1048",37.8021057,-122.4240269
-"195 25th Ave #101 San Francisco, CA, 94121",37.7859942,-122.48533
-"192 Coleman St San Francisco, CA, 94124",37.7273661,-122.3688885
-"156 Guerrero St #101 San Francisco, CA, 94103",37.768724,-122.424851
-"111 Monterey Blvd San Francisco, CA, 94131",37.7314015,-122.4378595
-"710 17th Ave San Francisco, CA, 94121",37.774559,-122.475473
-"701 Minna St #14 San Francisco, CA, 94103",37.7767297,-122.4127364
-"2032 Ellis St San Francisco, CA, 94107",37.78166,-122.439744
-"88 King St #110 San Francisco, CA, 94107",37.7806904,-122.3892201
-"1483 Sutter St #404 San Francisco, CA, 94109-5476",37.7867735,-122.4241362
-"10 Miller Pl #701 San Francisco, CA, 94108",37.7932132,-122.4089808
-"2040 Sutter St #301 San Francisco, CA, 94115",37.7861602,-122.4342124
-"1441 Jones St #304 San Francisco, CA, 94109",37.79459,-122.4151234
-"401 Harrison St #7F San Francisco, CA, 94105",37.7863987,-122.3920534
-"190 7th St #2 San Francisco, CA, 94103",37.7780056,-122.4098162
-"1545 Pine St #707 San Francisco, CA, 94109",37.7892442,-122.4212438
-"110 Channel St #102 San Francisco, CA, 94158",37.7733155,-122.3930001
-"1000 3rd St #822 San Francisco, CA, 94158",37.7734359,-122.3898896
-"1141 Church St San Francisco, CA, 94114",37.7526159,-122.4272773
-"1000 3rd St #403 San Francisco, CA, 94158",37.7734359,-122.3898896
-"44 Valley St San Francisco, CA, 94110",37.744953,-122.423283
-"8-14 Cypress St San Francisco, CA, 94110",37.75196100000001,-122.416893
-"1545 Pine St #209 San Francisco, CA, 94109",37.7892442,-122.4212438
-"201 Folsom St #23E San Francisco, CA, 94105",37.7886997,-122.39226
-"219 Brannan St #16K San Francisco, CA, 94107",37.7830568,-122.3901601
-"955 Wisconsin St San Francisco, CA, 94107",37.7554966,-122.3985203
-"2121 Webster St #308 San Francisco, CA, 94115",37.7902213,-122.4329717
-"425 1st St #5302 San Francisco, CA, 94105",37.7861411,-122.392459
-"1251 Revere Ave San Francisco, CA, 94124",37.7278643,-122.3838547
-"613 La Salle Ave #68 San Francisco, CA, 94124",37.7273614,-122.3729162
-"1622 Ingalls St San Francisco, CA, 94124",37.7289198,-122.3844079
-"4451 Mission St #301 San Francisco, CA, 94112",37.7268146,-122.4328508
-"1941 48th Ave San Francisco, CA, 94116",37.7502094,-122.5075616
-"75 Brighton Ave San Francisco, CA, 94122",37.7195905,-122.4553397
-"140 Ocean Ave San Francisco, CA, 94112",37.7236588,-122.4398122
-"1523 41st Ave San Francisco, CA, 94122",37.7582949,-122.50073
-"215 Bradford St San Francisco, CA, 94110",37.739355,-122.409341
-"2574 44th Ave San Francisco, CA, 94116",37.7386399,-122.50192
-"39 Brewster St San Francisco, CA, 94110",37.7458301,-122.4065028
-"144 Putnam St San Francisco, CA, 94110",37.737609,-122.411119
-"849 44th Ave San Francisco, CA, 94121",37.772563,-122.504944
-"476 Joost Ave San Francisco, CA, 94127",37.732572,-122.446099
-"1951 9th Ave San Francisco, CA, 94116",37.7518843,-122.4657047
-"490 Joost Ave San Francisco, CA, 94127",37.732571,-122.446444
-"29 Levant San Francisco, CA, 94114",37.7645806,-122.4421962
-"4045 Ocean Ave San Francisco, CA, 94132",37.7320204,-122.4877642
-"28 Winfield St San Francisco, CA, 94110",37.7449017,-122.4172875
-"396 Guerrero St San Francisco, CA, 94103",37.7649803,-122.4243613
-"650 Chestnut St #405 San Francisco, CA, 94133",37.803934,-122.414117
-"2172 Fell St San Francisco, CA, 94117",37.772267,-122.453582
-"2125 Bryant St #308 San Francisco, CA, 94110",37.7596546,-122.4095583
-"110 Montcalm St San Francisco, CA, 94110",37.7465396,-122.4070828
-"3583 Sacramento St San Francisco, CA, 94118",37.7874639,-122.451542
-"152 Fairmount St San Francisco, CA, 94131",37.7389943,-122.4266784
-"148 Lower Ter San Francisco, CA, 94114",37.763469,-122.442364
-"2241 Sacramento St #5 San Francisco, CA, 94115",37.790104,-122.429743
-"861 27th St San Francisco, CA, 94131",37.745977,-122.438844
-"225 Laguna St San Francisco, CA, 94102-5622",37.7732249,-122.42591
-"407 Missouri St San Francisco, CA, 94107",37.761126,-122.396075
-"221 Chenery St San Francisco, CA, 94131",37.7384579,-122.4258447
-"1450 Franklin St #1302 San Francisco, CA, 94109",37.7881078,-122.4233468
-"2230 Bush St San Francisco, CA, 94115",37.7870529,-122.4340451
-"301 Main St #37B San Francisco, CA, 94105",37.789525,-122.3911753
-"131 Raymond Ave San Francisco, CA, 94134",37.7126692,-122.4060211
-"106-108 Sadowa St San Francisco, CA, 94112",37.71240540000001,-122.4565118
-"4 Richards Cir San Francisco, CA, 94124",37.7355892,-122.3862092
-"900 Girard St San Francisco, CA, 94134",37.7210167,-122.4021842
-"561 Hearst Ave San Francisco, CA, 94112",37.730434,-122.450293
-"801 Excelsior Ave San Francisco, CA, 94112",37.7232534,-122.426996
-"190 Mary Teresa St #2 San Francisco, CA, 94134",37.7137643,-122.3985505
-"460 Lansdale Ave San Francisco, CA, 94127",37.73595419999999,-122.4553212
-"109 Turquoise Way San Francisco, CA, 94131",37.7434738,-122.4443016
-"7935 Geary Blvd San Francisco, CA, 94121",37.7789027,-122.504621
-"110 Steiner St San Francisco, CA, 94117",37.7703131,-122.4314956
-"556 Elizabeth St San Francisco, CA, 94114",37.752326,-122.4332037
-"1150 Lombard St #8 San Francisco, CA, 94109",37.8021794,-122.4205944
-"1661 Beach St San Francisco, CA, 94123",37.804344,-122.436333
-"4545 25th St San Francisco, CA, 94114",37.7491555,-122.4400809
-"2151 Laguna St #3 San Francisco, CA, 94115",37.791114,-122.429586
-"69 Bitting Ave San Francisco, CA, 94124",37.7268641,-122.3986841
-"148 16th Ave San Francisco, CA, 94118",37.7853301,-122.4753095
-"12 Garnett Ter San Francisco, CA, 94124-2572",37.73308,-122.38209
-"451 Kansas St #328 San Francisco, CA, 94107",37.7638443,-122.4029888
-"3912-3914 Cesar Chavez St San Francisco, CA, 94131-2004",37.7478332,-122.4275802
-"55 Ora Way #308B San Francisco, CA, 94131",37.7413382,-122.4369862
-"888 7th St #207 San Francisco, CA, 94107",37.770553,-122.4004052
-"41 Kiska Rd San Francisco, CA, 94124",37.73021300000001,-122.378984
-"2916 Arelious Walker Dr #6 San Francisco, CA, 94124",37.7173078,-122.3861771
-"855 Folsom St #342 San Francisco, CA, 94107",37.7807737,-122.4021633
-"270 Valencia St #401 San Francisco, CA, 94103",37.7685554,-122.4225153
-"126 Dolphin Ct San Francisco, CA, 94124",37.7282089,-122.371007
-"218 Grafton Ave San Francisco, CA, 94112",37.720255,-122.455537
-"212 Howth St San Francisco, CA, 94112-2416",37.7206831,-122.4512892
-"28 Redondo St San Francisco, CA, 94124",37.718347,-122.392583
-"1335 Laguna St #6 San Francisco, CA, 94115",37.7834886,-122.4278332
-"1676 Wallace Ave San Francisco, CA, 94124",37.728465,-122.39232
-"205 Salinas Ave San Francisco, CA, 94124",37.7210309,-122.3985833
-"239 Arleta Ave San Francisco, CA, 94134",37.7139049,-122.407635
-"1151 Plymouth Ave San Francisco, CA, 94112",37.7229226,-122.4563504
-"400 Alemany Blvd #1 San Francisco, CA, 94110",37.7331285,-122.41458
-"515 Delta St San Francisco, CA, 94134",37.713459,-122.409152
-"350 Athens St San Francisco, CA, 94112",37.7224901,-122.4280342
-"441 Rolph St San Francisco, CA, 94112",37.7126919,-122.434202
-"2108 Great Highway Hwy #3 San Francisco, CA, 94116",37.74689180000001,-122.5074052
-"5810 Mission St #304 San Francisco, CA, 94112",37.7095133,-122.4515186
-"727 Andover St San Francisco, CA, 94110",37.73408999999999,-122.4167056
-"343 Stoneridge Ln #5203 San Francisco, CA, 94134",37.71023,-122.426265
-"60 Mercury St San Francisco, CA, 94124-2253",37.7317211,-122.4017333
-"1387 Goettingen San Francisco, CA, 94134-2234",37.715092,-122.401447
-"400 Alemany Blvd #19 San Francisco, CA, 94110",37.7331285,-122.41458
-"2063 41st Ave San Francisco, CA, 94116",37.7482943,-122.499894
-"27 Talbert St San Francisco, CA, 94134",37.711238,-122.405863
-"171 Ledyard St San Francisco, CA, 94124",37.7319561,-122.4003737
-"1436 Ingalls St San Francisco, CA, 94124",37.7300104,-122.383427
-"218 Ordway St San Francisco, CA, 94134",37.7199527,-122.4030442
-"8200 Oceanview Ter #408 San Francisco, CA, 94132",37.710275,-122.4674343
-"130 Brazil Ave San Francisco, CA, 94112",37.72392,-122.433735
-"208 N Lake Merced Hls #1A San Francisco, CA, 94132-2921",37.713405,-122.4833831
-"3981 Alemany Blvd #110 San Francisco, CA, 94132",37.7104012,-122.4688543
-"3981 Alemany Blvd #209 San Francisco, CA, 94132",37.7104012,-122.4688543
-"301 Crescent Ct #3216 San Francisco, CA, 94134",37.711177,-122.388087
-"135 Farallones St San Francisco, CA, 94112",37.713901,-122.4573318
-"124 Majestic Ave San Francisco, CA, 94112",37.7166764,-122.4523839
-"8100 Oceanview Ter #204 San Francisco, CA, 94132",37.7104841,-122.4666514
-"840 Potrero Ave San Francisco, CA, 94110",37.7587203,-122.4070766
-"20 Drake St San Francisco, CA, 94112",37.7104563,-122.437092
-"157 A St South San Francisco, CA, 94080",37.6525109,-122.430569
+"259 Clara St #401 San Francisco, CA, 94107",37.7783714,-122.4034816
+"338 Potrero Ave #309 San Francisco, CA, 94103",37.7652366,-122.4075214
+"1380 Greenwich St #109 San Francisco, CA, 94109",37.80096100000001,-122.422447
+"250 King St #474 San Francisco, CA, 94107",37.7781311,-122.3932477
+"374 Guerrero St #1 San Francisco, CA, 94103",37.765281,-122.4245097
+"2595 Clay St #1 San Francisco, CA, 94115",37.790409,-122.4354998
+"4322 17th St #B San Francisco, CA, 94114",37.762339,-122.441062
+"170 King St #1106 San Francisco, CA, 94107",37.7788432,-122.3914892
+"55 Conrad St San Francisco, CA, 94131",37.7376334,-122.4361249
+"1382 Page St #2 San Francisco, CA, 94117",37.771633,-122.44353
+"1543 Dolores St San Francisco, CA, 94110",37.744852,-122.424153
+"2775 Greenwich St San Francisco, CA, 94123",37.7976447,-122.4452975
+"10 Levant St San Francisco, CA, 94114",37.7648471,-122.4424347
+"429 Carl St San Francisco, CA, 94117",37.7647679,-122.456229
+"1151 Sutter St #301 San Francisco, CA, 94109",37.7877025,-122.4194898
+"448 Anderson St San Francisco, CA, 94110",37.7377924,-122.4154639
+"1590 22nd Ave San Francisco, CA, 94122",37.7580555,-122.4797526
+"45 Montecito Ave San Francisco, CA, 94112",37.7309634,-122.4536748
+"419 31st Ave San Francisco, CA, 94121",37.7813122,-122.4914204
+"530 Chestnut St #C312 San Francisco, CA, 94133",37.8041704,-122.4124849
+"338 Potrero Ave #503 San Francisco, CA, 94103",37.7652366,-122.4075214
+"300 3rd St #520 San Francisco, CA, 94107",37.7834748,-122.3988968
+"1573 Waller San Francisco, CA, 94117",37.7684894,-122.4499034
+"338 Potrero Ave #508 San Francisco, CA, 94103",37.7652366,-122.4075214
+"4132 3rd St #6 San Francisco, CA, 94124",37.73987959999999,-122.3891287
+"2511 25th Ave San Francisco, CA, 94116",37.7406066,-122.4822382
+"2382 Union St San Francisco, CA, 94123",37.796946,-122.438461
+"3011 20th St #2 San Francisco, CA, 94110",37.758888,-122.410975
+"801 Indiana St #363 San Francisco, CA, 94107",37.7603083,-122.3913132
+"1630 34th Ave San Francisco, CA, 94122",37.7566459,-122.4925119
+"465 10th St #206 San Francisco, CA, 94103",37.7708827,-122.4099833
+"152 Lombard St #304 San Francisco, CA, 94111",37.80445,-122.404178
+"132 Collins St San Francisco, CA, 94118-3401",37.783572,-122.450057
+"335 Clipper St San Francisco, CA, 94114",37.748735,-122.432452
+"338 Potrero Ave #206 San Francisco, CA, 94103",37.7652366,-122.4075214
+"960 Wisconsin St San Francisco, CA, 94107",37.75526199999999,-122.399058
+"58 Allen St San Francisco, CA, 94109",37.7994594,-122.420067
+"261 Henry St #A San Francisco, CA, 94114",37.76621799999999,-122.436728
+"1252 South Van Ness Ave San Francisco, CA, 94110",37.7531447,-122.4164638
+"1365 16th Ave San Francisco, CA, 94122",37.76249809999999,-122.4738446
+"355 1st St #s204 San Francisco, CA, 94105",37.7868797,-122.3934879
+"11 Franklin St #406 San Francisco, CA, 94102",37.7745585,-122.420818
+"527 Holly Park Cir San Francisco, CA, 94110",37.7361133,-122.4206414
+"45 Bartlett St #410 San Francisco, CA, 94110",37.7558162,-122.4197494
+"45 Bartlett St #507 San Francisco, CA, 94110",37.7558162,-122.4197494
+"2134 Green St #3 San Francisco, CA, 94123",37.7965673,-122.4342587
+"250 King St #872 San Francisco, CA, 94107",37.7781311,-122.3932477
+"68 Harriet St #13 San Francisco, CA, 94103",37.7783528,-122.4068131
+"8 Buchanan St #601 San Francisco, CA, 94102",37.7699869,-122.4264516
+"199 Cresta Vista Dr San Francisco, CA, 94127",37.7356203,-122.4555115
+"330 N Mission Bay Blvd #405 San Francisco, CA, 94158",37.7713635,-122.3873252
+"2315 Divisadero St #C San Francisco, CA, 94115",37.791013,-122.441417
+"12 Auburn St San Francisco, CA, 94133",37.795669,-122.4123359
+"12 Auburn St San Francisco, CA, 94133",37.795669,-122.4123359
+"1565 Sacramento St #6 San Francisco, CA, 94109",37.791537,-122.418539
+"1776 Sacramento St #605 San Francisco, CA, 94109",37.7915441,-122.4221102
+"631 Folsom St #6C San Francisco, CA, 94107",37.7848176,-122.3969578
+"329 Bay St #307 San Francisco, CA, 94133",37.8055114,-122.4126482
+"26 St Marys Ave San Francisco, CA, 94112",37.734342,-122.4265
+"338 Potrero Ave #509 San Francisco, CA, 94103",37.7652366,-122.4075214
+"521 Cayuga Ave San Francisco, CA, 94112-1915",37.7288599,-122.4353078
+"520 Chestnut St #102 San Francisco, CA, 94133",37.8039833,-122.4123796
+"631 Folsom St #8C San Francisco, CA, 94107",37.7848176,-122.3969578
+"338 Potrero Ave #609 San Francisco, CA, 94103",37.7652366,-122.4075214
+"451 Kansas St #382 San Francisco, CA, 94107",37.7638443,-122.4029888
+"3087 22nd St San Francisco, CA, 94110",37.7555094,-122.4162444
+"324 Arguello Blvd #2 San Francisco, CA, 94118",37.785115,-122.45877
+"170 King St #711 San Francisco, CA, 94107",37.7788432,-122.3914892
+"3191 Washington St #5 San Francisco, CA, 94115",37.789915,-122.445723
+"530 Chestnut St #C408 San Francisco, CA, 94133",37.8041704,-122.4124849
+"1895 Pacific Ave #306 San Francisco, CA, 94109",37.7942005,-122.4263241
+"1000 North Point St #1007 San Francisco, CA, 94109",37.8054605,-122.4241338
+"630 Sloat Blvd San Francisco, CA, 94132",37.73480380000001,-122.4788843
+"801 Indiana St #561 San Francisco, CA, 94107",37.7603083,-122.3913132
+"170 King St #602 San Francisco, CA, 94107",37.7788432,-122.3914892
+"555 Fulton St #313 San Francisco, CA, 94102",37.7781469,-122.4259144
+"255 Edgehill Way San Francisco, CA, 94127",37.743056,-122.458566
+"403 Main St #215 San Francisco, CA, 94105",37.7880115,-122.3896827
+"90 Entrada Ct San Francisco, CA, 94127-2815",37.7239809,-122.4680807
+"1913 Stockton St San Francisco, CA, 94133",37.80340899999999,-122.410052
+"368 Elm St #305 San Francisco, CA, 94102",37.7812639,-122.423206
+"1160 Mission St #1114 San Francisco, CA, 94103",37.7783901,-122.412238
+"451 Kansas St #512 San Francisco, CA, 94107",37.7638443,-122.4029888
+"1868 Van Ness #201 San Francisco, CA, 94109",37.7929192,-122.4227782
+"1275 Indiana St #405 San Francisco, CA, 94107",37.75419249999999,-122.3905999
+"55 Page St #317 San Francisco, CA, 94102",37.7739816,-122.421936
+"235 Berry #704 San Francisco, CA, 94158",37.7748669,-122.3941757
+"300 Berry St #1210 San Francisco, CA, 94158",37.7740239,-122.395917
+"88 Manchester St San Francisco, CA, 94110",37.7453587,-122.4144314
+"400 Beale #1301 San Francisco, CA, 94105",37.7870882,-122.3911279
+"850 Powell St #102 San Francisco, CA, 94108-2304",37.792858,-122.40894
+"2689 Pine San Francisco, CA, 94115",37.7870384,-122.4400221
+"45 Bartlett St #207 San Francisco, CA, 94110",37.7558162,-122.4197494
+"62 Ramona Ave San Francisco, CA, 94103",37.7670721,-122.4255221
+"1117 Hampshire San Francisco, CA, 94110",37.753867,-122.407105
+"550 Stanyan St #7 San Francisco, CA, 94117",37.772434,-122.4538345
+"403 Main St #203N San Francisco, CA, 94105",37.7880115,-122.3896827
+"430 Fell St San Francisco, CA, 94102",37.7758593,-122.4250083
+"2762-64 23rd St San Francisco, CA, 94110",37.754672,-122.407757
+"20 Bessie St San Francisco, CA, 94110",37.7465842,-122.4146733
+"121 29th St San Francisco, CA, 94110",37.74373000000001,-122.423065
+"250 King St #702 San Francisco, CA, 94107",37.7781311,-122.3932477
+"130 Roanoke San Francisco, CA, 94131",37.73567329999999,-122.4305381
+"1655 Chestnut St #302 San Francisco, CA, 94123",37.8014433,-122.4304317
+"50 Lansing St #407 San Francisco, CA, 94105",37.7860194,-122.3942091
+"130 Roanoke St San Francisco, CA, 94131",37.73567329999999,-122.4305381
+"50 Lansing St #703 San Francisco, CA, 94105",37.7860194,-122.3942091
+"1462 27th Ave San Francisco, CA, 94122",37.7601581,-122.4851892
+"1185 Rhode Island St San Francisco, CA, 94107",37.754988,-122.401319
+"143 Buchanan St San Francisco, CA, 94102",37.771191,-122.427214
+"290 Rutledge St San Francisco, CA, 94110",37.7451891,-122.408792
+"60 Rausch St #304 San Francisco, CA, 94103",37.7761423,-122.4096951
+"1160 Mission St #513 San Francisco, CA, 94103",37.7783901,-122.412238
+"660 Natoma St #4 San Francisco, CA, 94103",37.7774455,-122.4114763
+"2111 Bush St San Francisco, CA, 94115-3103",37.786963,-122.432281
+"1080 Sutter St #1002 San Francisco, CA, 94109",37.78817919999999,-122.4179624
+"333 1st St #1701 San Francisco, CA, 94105",37.787202,-122.3938869
+"730 San Bruno Ave San Francisco, CA, 94107",37.760284,-122.405473
+"453 Teresita Blvd San Francisco, CA, 94127",37.740104,-122.447763
+"786 Minna St #10 San Francisco, CA, 94103",37.7762428,-122.4139624
+"1679 Dolores St San Francisco, CA, 94110",37.7425311,-122.4238445
 "Address not found San Francisco, CA",37.8081571,-122.415464
-"1211 Bowdoin St San Francisco, CA, 94134-1819",37.7208539,-122.4083041
-"501 Crescent Way #5212 San Francisco, CA, 94134",37.711929,-122.388606
-"301 Crescent Ct #3116 San Francisco, CA, 94134",37.711177,-122.388087
-"201 Pope St San Francisco, CA, 94112",37.71263039999999,-122.440367
-"162 Stoneridge Ln #1207 San Francisco, CA, 94134",37.71023,-122.426265
-"98 Reddy St San Francisco, CA, 94124",37.729841,-122.395579
-"5800 3rd St #1407 San Francisco, CA, 94124",37.7253042,-122.3947616
-"924 Dwight St San Francisco, CA, 94134",37.721806,-122.411526
+"355 1st St #1002 San Francisco, CA, 94105",37.7868797,-122.3934879
+"87 Virgil St San Francisco, CA, 94110",37.7495126,-122.4153207
+"1520 6th Ave San Francisco, CA, 94122",37.7599858,-122.4626218
+"555 4th St #613 San Francisco, CA, 94107",37.7790947,-122.3971378
+"64 Carver St San Francisco, CA, 94110-5748",37.7422131,-122.4101891

@@ -20,7 +20,7 @@ def __grab_address_coordinates(address):
 
 # Read the data from the Final_Scrape_Output
 columns = defaultdict(list)
-with open("Final_Scrape_Output.csv","r") as f:
+with open("Fourth_Scrape_Output.csv","r") as f:
   reader = csv.DictReader(f)
   for row in reader: 
     for (k,v) in row.items():
@@ -33,18 +33,22 @@ field_names = ["address","lat","lng"]
 writer = csv.DictWriter(csvfile, fieldnames=field_names)
 writer.writeheader()
 
-i = 132
+# print columns["City_State-Zip "][0]
+# print columns["Address"][0]
+
+i = 403
 collection = []
-while i < len(columns["Address"]) and i < len(columns["City-State-Zip"]):
+while i < len(columns["Address"]) and i < len(columns["City_State-Zip "]):
   print i 
-  address = columns["Address"][i].replace("\xe5_",'') + " " + columns["City-State-Zip"][i]
+  address = columns["Address"][i].replace("\xe5_",'') + " " + columns["City_State-Zip "][i]
   coordinates = __grab_address_coordinates(address)
   writer.writerow({"address": address, "lat": coordinates[0], "lng": coordinates[1]})
   collection.append([address,coordinates])
   i += 1
 
-# address = columns["Address"][131].replace("\xe5_",'') + " " + columns["City-State-Zip"][131]
+# address = columns["Address"][403].replace("\xe5_",'') + " " + columns["City_State-Zip "][403]
 # print address
 # print __grab_address_coordinates(address)
+
 print "Complete"
 
